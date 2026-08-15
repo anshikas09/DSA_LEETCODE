@@ -23,7 +23,7 @@ class Solution {
             }
             else i++;
         }
-        if(i==s1.length() && j==s2.length()) return true;
-        return false;
+        return (i==s1.length() && j==s2.length()) ? true:false;
+    
     }
 }
