@@ -1,26 +1,28 @@
 class Solution {
-    int dp[][];
-    public int solve(int[] prices, int i, int buy) {
-        if (i >= prices.length) {
-            return 0;
-        }
 
-        if(dp[i][buy]!=-1) return dp[i][buy];
-        if (buy == 1) {
-            int take = -prices[i] + solve(prices, i + 1, 0);
-            int skip = solve(prices, i + 1, 1);
-            return dp[i][buy]=Math.max(take, skip);
-
-        } else {
-            int take = prices[i] + solve(prices, i + 2, 1);
-            int skip = solve(prices, i + 1, 0);
-            return dp[i][buy]=Math.max(take, skip);
-        }
-    }
     public int maxProfit(int[] prices) {
-        int n=prices.length;
-        dp=new int[n][2];
-        for(int[]r:dp) Arrays.fill(r,-1);
-        return solve(prices, 0, 1);
+
+        int n = prices.length;
+
+        int[][] dp = new int[n + 2][2];
+
+        // dp[n] and dp[n+1] are automatically 0
+
+        for (int i = n - 1; i >= 0; i--) {
+
+            // Can buy
+            dp[i][1] = Math.max(
+                    -prices[i] + dp[i + 1][0],
+                    dp[i + 1][1]
+            );
+
+            // Holding stock
+            dp[i][0] = Math.max(
+                    prices[i] + dp[i + 2][1],
+                    dp[i + 1][0]
+            );
+        }
+
+        return dp[0][1];
     }
 }
