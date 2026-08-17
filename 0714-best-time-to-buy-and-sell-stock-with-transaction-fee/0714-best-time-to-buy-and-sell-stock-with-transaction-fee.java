@@ -9,12 +9,10 @@ class Solution {
         for (int i = n - 1; i >= 0; i--) {
 
             // Can buy
-            dp[i][1] = Math.max(-prices[i] + dp[i + 1][0],dp[i + 1][1]
-            );
+            dp[i][1] = Math.max(-prices[i] + dp[i + 1][0],dp[i + 1][1]);
 
             // Holding stock
-            dp[i][0] = Math.max(prices[i] - fee + dp[i + 1][1],dp[i + 1][0]
-            );
+            dp[i][0] = Math.max(prices[i] - fee + dp[i + 1][1],dp[i + 1][0]);
         }
 
         return dp[0][1];
