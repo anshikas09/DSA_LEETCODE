@@ -17,7 +17,7 @@ class Solution {
             }
         }
         String ans="";
-        ans=s.substring(0,len);
+        ans=s.substring(0,lps[n-1]);
         return ans;
     }
 }
