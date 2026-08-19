@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0686-repeated-string-match) |
 | [1048-longest-string-chain](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1048-longest-string-chain) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
