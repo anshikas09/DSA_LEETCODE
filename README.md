@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0079-word-search](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0459-repeated-substring-pattern) |
@@ -212,4 +214,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
