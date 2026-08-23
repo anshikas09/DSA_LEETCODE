@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1048-longest-string-chain) |
 | [1392-longest-happy-prefix](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1392-longest-happy-prefix) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1668-maximum-repeating-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -167,11 +168,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
 |  |
 | ------- |
