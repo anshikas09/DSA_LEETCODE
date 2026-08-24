@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0349-intersection-of-two-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0455-assign-cookies) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1048-longest-string-chain) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0455-assign-cookies) |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1048-longest-string-chain) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
