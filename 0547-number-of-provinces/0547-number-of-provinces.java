@@ -1,20 +1,20 @@
 class Solution {
-    public void dfs(int node, int[][]isConnected,boolean[] vis){
-        vis[node]=true;
-        for(int i=0;i<isConnected.length;i++){
-            if(!vis[i] && isConnected[node][i]==1) dfs(i,isConnected,vis);
-        }
-    }
-    public int findCircleNum(int[][] isConnected) {
-        int n=isConnected.length;
+    public int findCircleNum(int[][] mat) {
+        int n=mat.length;
         boolean[]vis=new boolean[n];
-        int provinces=0;
+        int cnt=0;
         for(int i=0;i<n;i++){
             if(!vis[i]){
-                dfs(i,isConnected,vis);
-                provinces++;
+                dfs(i,mat,vis);
+                cnt++;
             }
         }
-        return provinces;
+        return cnt;
+    }
+    public void dfs(int node, int[][]mat, boolean[]vis){
+        vis[node]=true;
+        for(int i=0;i<mat.length;i++){
+            if(!vis[i]&& mat[node][i]==1) dfs(i,mat,vis);
+        }
     }
 }
