@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0064-minimum-path-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0221-maximal-square) |
