@@ -1,5 +1,5 @@
 class Solution {
-    static final int MOD = 1_000_000_007;
+    static final int MOD = 1000000007;
     long dp[][];
     public int numMusicPlaylists(int n, int l, int k) {
         dp=new long[l+1][n+1];
