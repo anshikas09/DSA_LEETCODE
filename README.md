@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0920-number-of-music-playlists](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0920-number-of-music-playlists) |
