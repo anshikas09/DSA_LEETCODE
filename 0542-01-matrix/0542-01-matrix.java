@@ -14,7 +14,7 @@ class Solution {
         int m=mat[0].length;
         int vis[][]=new int[n][m];
         int dist[][]=new int[n][m];
-        Queue<Node> q=new LinkedList<Node>();
+        Queue<Node> q=new LinkedList<>();
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(mat[i][j]==0){
