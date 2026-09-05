@@ -10,8 +10,8 @@ class Solution {
     public int shortestPathBinaryMatrix(int[][] grid) {
         int n=grid.length;
         if(grid[0][0]==1 || grid[n-1][n-1]==1) return -1;
-        int[]dr={-1,-1,-1,0,0,1,1,1};
-        int[]dc={-1,0,1,-1,1,-1,0,1};
+        int[]dr={-1,-1,-1,0,1,1,1,0};
+        int[]dc={-1,0,1,1,1,0,-1,-1};
         Queue<Pair> q=new LinkedList<>();
         boolean[][]vis=new boolean[n][n];
         q.add(new Pair(0,0,1));
