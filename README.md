@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1631-path-with-minimum-effort](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2029-stone-game-ix](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1631-path-with-minimum-effort](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -320,10 +323,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [1631-path-with-minimum-effort](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -345,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
@@ -353,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -409,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0127-word-ladder) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
