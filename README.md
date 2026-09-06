@@ -436,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
