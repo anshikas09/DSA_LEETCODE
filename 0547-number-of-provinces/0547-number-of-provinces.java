@@ -1,20 +1,45 @@
 class Solution {
-    public int findCircleNum(int[][] mat) {
-        int n=mat.length;
-        boolean[]vis=new boolean[n];
-        int cnt=0;
-        for(int i=0;i<n;i++){
-            if(!vis[i]){
-                dfs(i,mat,vis);
-                cnt++;
+    class DSU{
+        int parent[];
+        int size[];
+        DSU(int n){
+            parent=new int[n];
+            size=new int[n];
+            for(int i=0;i<n;i++){
+                parent[i]=i;
+                size[i]=1;
             }
         }
-        return cnt;
-    }
-    public void dfs(int node, int[][]mat, boolean[]vis){
-        vis[node]=true;
-        for(int i=0;i<mat.length;i++){
-            if(!vis[i]&& mat[node][i]==1) dfs(i,mat,vis);
+        int find(int x){
+            if(parent[x]==x) return x;
+            return parent[x]=find(parent[x]);
         }
+        void union(int u, int v){
+            int pu=find(u);
+            int pv=find(v);
+            if(pu==pv) return;
+            if(size[pu]<size[pv]){
+                parent[pu]=pv;
+                size[pv]+=size[pu];
+            }
+            else{
+                parent[pv]=pu;
+                size[pu]+=size[pv];
+            }
+        }
+    }
+    public int findCircleNum(int[][] isConnected) {
+        int cnt=0;
+        int n=isConnected.length;
+        DSU ds=new DSU(n);
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<n;j++){
+                if(isConnected[i][j]==1) ds.union(i,j);
+            }
+        }
+        for(int i=0;i<n;i++){
+            if(ds.find(i)==i) cnt++;
+        }
+        return cnt;
     }
 }
