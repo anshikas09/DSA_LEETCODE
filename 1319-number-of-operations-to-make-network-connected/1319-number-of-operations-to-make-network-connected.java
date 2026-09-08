@@ -28,20 +28,6 @@ class Solution {
             }
         }
     }
-    //public int findCircleNum(int[][] isConnected) {
-    //     int cnt=0;
-    //     int n=isConnected.length;
-    //     DSU ds=new DSU(n);
-    //     for(int i=0;i<n;i++){
-    //         for(int j=i+1;j<n;j++){
-    //             if(isConnected[i][j]==1) ds.union(i,j);
-    //         }
-    //     }
-    //     for(int i=0;i<n;i++){
-    //         if(ds.find(i)==i) cnt++;
-    //     }
-    //     return cnt;
-    // }
     public int makeConnected(int n, int[][] connections) {
         int cnt=0;
         int cntExtra=0;
