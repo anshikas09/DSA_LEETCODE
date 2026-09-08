@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0577-employee-bonus) |
+| [1280-students-and-examinations](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1280-students-and-examinations) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
