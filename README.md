@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0721-accounts-merge](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0860-lemonade-change) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0127-word-ladder) |
 | [0349-intersection-of-two-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0721-accounts-merge](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0721-accounts-merge) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1048-longest-string-chain) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0459-repeated-substring-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0686-repeated-string-match) |
+| [0721-accounts-merge](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0721-accounts-merge) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0925-long-pressed-name) |
 | [1048-longest-string-chain](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1048-longest-string-chain) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -352,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -367,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
