@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0620-not-boring-movies) |
+| [1251-average-selling-price](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1280-students-and-examinations) |
 | [1934-confirmation-rate](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1934-confirmation-rate) |
 ## Bellman–Ford Algorithm
