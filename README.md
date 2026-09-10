@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1280-students-and-examinations) |
 | [1934-confirmation-rate](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1934-confirmation-rate) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
