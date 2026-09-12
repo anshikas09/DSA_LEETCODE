@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0368-largest-divisible-subset) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0062-unique-paths) |
 | [0920-number-of-music-playlists](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0920-number-of-music-playlists) |
 ## Graph Coloring
 |  |
