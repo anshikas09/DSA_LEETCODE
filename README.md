@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0509-fibonacci-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 | [0920-number-of-music-playlists](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0920-number-of-music-playlists) |
 | [1903-largest-odd-number-in-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2029-stone-game-ix) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -510,4 +513,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1192-critical-connections-in-a-network) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
