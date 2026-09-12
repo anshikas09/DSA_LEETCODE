@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
@@ -516,5 +518,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
