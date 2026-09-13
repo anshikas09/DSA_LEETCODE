@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0860-lemonade-change) |
+| [0930-binary-subarrays-with-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0721-accounts-merge) |
+| [0930-binary-subarrays-with-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1048-longest-string-chain) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshikas09/DSA_LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -543,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
