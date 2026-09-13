@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0127-word-ladder) |
 | [0349-intersection-of-two-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0076-minimum-window-substring](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0126-word-ladder-ii) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0930-binary-subarrays-with-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
