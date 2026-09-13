@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0778-swim-in-rising-water](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1631-path-with-minimum-effort](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
