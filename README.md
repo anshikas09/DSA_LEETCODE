@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0620-not-boring-movies) |
 | [1251-average-selling-price](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1280-students-and-examinations) |
+| [1757-recyclable-and-low-fat-products](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
 | [1890-the-latest-login-in-2020](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1890-the-latest-login-in-2020) |
 | [1934-confirmation-rate](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1965-employees-with-missing-information) |
