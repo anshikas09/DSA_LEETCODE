@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshikas09/DSA_LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0126-word-ladder-ii) |
 ## Depth-First Search
