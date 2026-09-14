@@ -1,33 +1,21 @@
 class Solution {
-
-    public int maxProfit(int[] prices) {
-
-        int nextBuy = 0;
-        int nextNotBuy = 0;
-
-        int nextNextBuy = 0;
-
-        for (int i = prices.length - 1; i >= 0; i--) {
-
-            // Can buy
-            int currentBuy = Math.max(
-                    -prices[i] + nextNotBuy,
-                    nextBuy
-            );
-
-            // Holding stock
-            int currentNotBuy = Math.max(
-                    prices[i] + nextNextBuy,
-                    nextNotBuy
-            );
-
-            // Shift states
-            nextNextBuy = nextBuy;
-
-            nextBuy = currentBuy;
-            nextNotBuy = currentNotBuy;
+    public int maxProfit(int[] p) {
+        int n = p.length;
+        int dp[][]=new int[n+2][2];
+        for(int i=n-1;i>=0;i--){
+            for(int buy = 0;buy<=1;buy++){
+                if(buy==1){
+                    int take = -p[i]+dp[i+1][0];
+                    int skip = dp[i+1][1];
+                    dp[i][buy]=Math.max(take,skip);
+                }
+                else{
+                    int take = p[i]+dp[i+2][1];
+                    int skip =dp[i+1][0];
+                    dp[i][buy]=Math.max(take,skip);
+                }
+            }
         }
-
-        return nextBuy;
+        return dp[0][1]; 
     }
 }
