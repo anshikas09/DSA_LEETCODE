@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
 | [1890-the-latest-login-in-2020](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1890-the-latest-login-in-2020) |
