@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0542-01-matrix) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0542-01-matrix) |
@@ -577,4 +579,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
