@@ -560,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
 | [1890-the-latest-login-in-2020](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1890-the-latest-login-in-2020) |
 | [1934-confirmation-rate](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1934-confirmation-rate) |
