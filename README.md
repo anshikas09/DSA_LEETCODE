@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0887-super-egg-drop](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0887-super-egg-drop) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1631-path-with-minimum-effort](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0887-super-egg-drop](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0887-super-egg-drop) |
 | [0920-number-of-music-playlists](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0920-number-of-music-playlists) |
 | [1048-longest-string-chain](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1092-shortest-common-supersequence) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
+| [0887-super-egg-drop](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0887-super-egg-drop) |
 | [0920-number-of-music-playlists](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0920-number-of-music-playlists) |
 | [1903-largest-odd-number-in-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2029-stone-game-ix) |
