@@ -1,29 +1,25 @@
 class Solution {
     public int longestStrChain(String[] words) {
-        Arrays.sort(words, (a, b) -> a.length() - b.length());
-        int dp[]=new int[words.length];
+        int n=words.length;
+        int dp[]=new int[n];
         Arrays.fill(dp,1);
         int ans=1;
-        for(int i=1;i<words.length;i++){
+        Arrays.sort(words,(a,b)->Integer.compare(a.length(),b.length()));
+        for(int i=0;i<n;i++){
             for(int j=0;j<i;j++){
-                if(check(words[i], words[j]) && dp[j]+1>dp[i]) dp[i]=dp[j]+1;
+                if(isPredecessor(words[j],words[i])) dp[i]=Math.max(dp[i],dp[j]+1);
             }
-            ans = Math.max(ans, dp[i]);
+            ans=Math.max(dp[i],ans);
         }
         return ans;
     }
-    public boolean check(String s1, String s2){
-        if(s1.length()!=s2.length()+1) return false;
-        int i=0;
-        int j=0;
-        while(i<s1.length()){
-            if(j<s2.length() && s1.charAt(i)==s2.charAt(j)){
-                i++;
-                j++;
-            }
-            else i++;
+    private boolean isPredecessor(String a, String b){
+        if(b.length()!=a.length()+1) return false;
+        int i=0, j=0;
+        while(i<a.length() && j<b.length()){
+            if(a.charAt(i)==b.charAt(j)) i++;
+            j++;
         }
-        return (i==s1.length() && j==s2.length()) ? true:false;
-    
+        return i==a.length();
     }
 }
