@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
