@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0778-swim-in-rising-water) |
