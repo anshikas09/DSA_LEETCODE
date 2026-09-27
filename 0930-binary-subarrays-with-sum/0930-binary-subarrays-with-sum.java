@@ -1,20 +1,13 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        return atMost(nums,goal)-atMost(nums,goal-1);
-
-    }
-    public int atMost(int []nums, int goal){
-        if(goal<0) return 0;
-        int l=0;
+        HashMap<Integer,Integer> mp = new HashMap<>();
+        mp.put(0,1);
         int count=0;
         int sum=0;
-        for(int r=0;r<nums.length;r++){
-            sum+=nums[r];
-            while(sum>goal){
-                sum-=nums[l];
-                l++;
-            }
-            count+=r-l+1;
+        for(int i=0;i<nums.length;i++){
+            sum+=nums[i];
+            count+=mp.getOrDefault(sum-goal,0);
+            mp.put(sum,mp.getOrDefault(sum,0)+1);
         }
         return count;
     }
