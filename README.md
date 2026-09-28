@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0213-house-robber-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
