@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0076-minimum-window-substring) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0078-subsets) |
