@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
