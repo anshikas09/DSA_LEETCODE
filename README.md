@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0018-4sum) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0126-word-ladder-ii) |
