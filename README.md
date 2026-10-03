@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
