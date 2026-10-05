@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0827-making-a-large-island) |
+| [0845-longest-mountain-in-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0860-lemonade-change](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0845-longest-mountain-in-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0887-super-egg-drop](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0887-super-egg-drop) |
 | [0920-number-of-music-playlists](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0920-number-of-music-playlists) |
 | [1048-longest-string-chain](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1048-longest-string-chain) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0455-assign-cookies) |
+| [0845-longest-mountain-in-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0925-long-pressed-name](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0925-long-pressed-name) |
 | [1048-longest-string-chain](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1048-longest-string-chain) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -815,4 +818,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
