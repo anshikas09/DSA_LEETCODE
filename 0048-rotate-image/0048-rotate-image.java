@@ -6,7 +6,7 @@ class Solution {
             reverse(matrix[i]);
         }
     }
-    private void transpose(int[][]matrix,int n){
+    private void transpose(int matrix[][],int n){
         for(int i=0;i<n-1;i++){
             for(int j=i;j<n;j++){
                 int temp=matrix[i][j];
