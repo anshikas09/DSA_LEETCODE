@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2952-minimum-number-of-coins-to-be-added) |
+| [2965-find-missing-and-repeated-values](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshikas09/DSA_LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshikas09/DSA_LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2965-find-missing-and-repeated-values](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshikas09/DSA_LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshikas09/DSA_LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2029-stone-game-ix) |
+| [2965-find-missing-and-repeated-values](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anshikas09/DSA_LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
 |  |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1631-path-with-minimum-effort) |
+| [2965-find-missing-and-repeated-values](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
