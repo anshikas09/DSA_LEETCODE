@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1668-maximum-repeating-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshikas09/DSA_LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
