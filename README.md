@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0721-accounts-merge) |
+| [0844-backspace-string-compare](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0925-long-pressed-name) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0925-long-pressed-name) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1021-remove-outermost-parentheses) |
@@ -861,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [0844-backspace-string-compare](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
