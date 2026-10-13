@@ -1,7 +1,7 @@
 class Solution {
     public int trap(int[] height) {
-        Stack<Integer> st = new Stack<>();
         int n=height.length;
+        Stack<Integer>st=new Stack<>();
         int res=0;
         for(int i=0;i<n;i++){
             while(!st.isEmpty() && height[i]>height[st.peek()]){
