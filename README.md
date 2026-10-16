@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0860-lemonade-change](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0918-maximum-sum-circular-subarray](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0887-super-egg-drop](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0887-super-egg-drop) |
+| [0918-maximum-sum-circular-subarray](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0920-number-of-music-playlists](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0920-number-of-music-playlists) |
 | [1048-longest-string-chain](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1092-shortest-common-supersequence) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0918-maximum-sum-circular-subarray](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -898,4 +901,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0845-longest-mountain-in-array) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
