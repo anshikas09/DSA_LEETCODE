@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0887-super-egg-drop) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1631-path-with-minimum-effort](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1631-path-with-minimum-effort) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Two Pointers
 |  |
