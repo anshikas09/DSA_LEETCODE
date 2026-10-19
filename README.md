@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2965-find-missing-and-repeated-values](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0844-backspace-string-compare](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
