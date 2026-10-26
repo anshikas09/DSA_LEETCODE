@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
@@ -986,4 +987,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
