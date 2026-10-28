@@ -8,14 +8,11 @@ class Solution {
     }
     public void reverse(int []nums, int st, int end){
         while(st<end){
-            swap(nums,st,end);
+            int temp=nums[st];
+            nums[st]=nums[end];
+            nums[end]=temp;
             st++;
             end--;
         }
-    }
-    public void swap(int[]nums, int st, int end){
-        int temp=nums[st];
-        nums[st]=nums[end];
-        nums[end]=temp;
     }
 }
