@@ -1,19 +1,20 @@
 class Solution {
     public int[] pivotArray(int[] nums, int pivot) {
-        List<Integer> small= new ArrayList<>();
-        List<Integer> equal= new ArrayList<>();
-        List<Integer> large= new ArrayList<>();
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]<pivot) small.add(nums[i]);
-            else if(nums[i]==pivot) equal.add(nums[i]);
-            else if(nums[i]>pivot) large.add(nums[i]);
+        List<Integer> s=new ArrayList<>();
+        List<Integer> eq=new ArrayList<>();
+        List<Integer> l=new ArrayList<>();
+        int n=nums.length;
+        for(int i=0;i<n;i++){
+            if(nums[i]<pivot) s.add(nums[i]);
+            if(nums[i]==pivot) eq.add(nums[i]);
+            if(nums[i]>pivot) l.add(nums[i]);
         }
-        int ans[]=new int[nums.length];
-        int idx=0;
-        for(int x : small) ans[idx++]=x;
-        for(int x : equal) ans[idx++]=x;
-        for(int x : large) ans[idx++]=x;
 
+        int ans[]=new int[n];
+        int idx=0;
+        for(int x : s) ans[idx++]=x;
+        for(int x : eq) ans[idx++]=x;
+        for(int x : l) ans[idx++]=x;
         return ans;
     }
 }
