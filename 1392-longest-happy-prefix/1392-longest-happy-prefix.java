@@ -9,12 +9,9 @@ class Solution {
                 len++;
                 lps[i]=len;
                 i++;
-            }else {
+            }else{
                 if(len!=0) len=lps[len-1];
-                else{
-                    lps[i]=0;
-                    i++;
-                }
+                else lps[i++]=len;
             }
         }
         return s.substring(0,lps[n-1]);
