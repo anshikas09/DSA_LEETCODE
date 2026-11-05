@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0567-permutation-in-string) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshikas09/DSA_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Backtracking
 |  |
