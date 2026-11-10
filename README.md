@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2965-find-missing-and-repeated-values](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3693-climbing-stairs-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshikas09/DSA_LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshikas09/DSA_LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1668-maximum-repeating-substring](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1668-maximum-repeating-substring) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/anshikas09/DSA_LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3693-climbing-stairs-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/3693-climbing-stairs-ii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
