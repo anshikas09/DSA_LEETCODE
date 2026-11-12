@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2965-find-missing-and-repeated-values](https://github.com/anshikas09/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anshikas09/DSA_LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshikas09/DSA_LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3693-climbing-stairs-ii](https://github.com/anshikas09/DSA_LEETCODE/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshikas09/DSA_LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
