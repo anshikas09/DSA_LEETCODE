@@ -1,10 +1,9 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        if(grid == null || grid.length == 0) return -1;
-        int m= grid.length;
+        int m=grid.length;
         int n=grid[0].length;
-        int [][]visited = grid;
-        Queue<int[]>q=new LinkedList<>();
+        int visited[][]=grid;
+        Queue<int[]> q = new LinkedList<>();
         int cnt=0;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
@@ -15,19 +14,19 @@ class Solution {
         if(cnt==0) return 0;
         if(q.isEmpty()) return -1;
         int time=-1;
-        int [][]dirs={{-1,0},{1,0},{0,-1},{0,1}};
+        int [][]dirs={{1,0},{-1,0},{0,-1},{0,1}};
         while(!q.isEmpty()){
             int size=q.size();
             while(size-->0){
-                int []cell= q.poll();
+                int []cell=q.poll();
                 int x=cell[0];
                 int y=cell[1];
-                for(int []dir:dirs){
+                for(int[] dir: dirs){
                     int i=x+dir[0];
                     int j=y+dir[1];
-                    if(i>=0 && i<m && j>=0 && j<n && visited[i][j]==1){
-                        cnt--;
+                    if(i>=0 && i<m && j>=0 && j<n && visited[i][j]==1) {
                         visited[i][j]=2;
+                        cnt--;
                         q.offer(new int[]{i,j});
                     }
                 }
